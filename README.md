@@ -43,3 +43,10 @@ I'm a Front-End Web Developper based in Sherbrooke 🇨🇦
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JulineExnihilo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
