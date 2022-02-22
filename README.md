@@ -20,8 +20,7 @@ I'm a Front-End Web Developper based in Sherbrooke 🇨🇦
 
 - 🔭 I’m currently working on a ✨ React Web app ✨ allowing user to customize a product before buying it
 - 📫 How to reach me: juline@exniilomontreal.com
-- ⚡ Fun fact: 
-
+- ⚡ Fun fact: I am co-founder of Exnihilo Montréal, check out what we are for our clients doing 👉 <a href="https://exnihilomontreal.com/">here</a>  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
